@@ -1,5 +1,5 @@
 # Hyde + Pixyll: 
-### A Jekyll theme for science bloging, with Hyde control + Pixyll clean style.
+### A Jekyll theme for science blogging, with Hyde control + Pixyll clean style.
 
 ## Refs:
 - [Hyde](https://github.com/poole/hyde)
@@ -9,6 +9,7 @@
 - Fix Hyde for Jekyll 3
 - Make clean preview with separation line and short summary
 - Add MathJax support
+- ...
 
 ## How to use:
     git clone https://github.com/tranhungnghiep/hyde_pixyll
